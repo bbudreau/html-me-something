@@ -1,0 +1,7 @@
+body, html{
+    height:100%
+}
+html{
+    color:white;
+    background: linear-gradient(0.125turn, green, black,red)
+}
