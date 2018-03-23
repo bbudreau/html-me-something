@@ -3,5 +3,12 @@ body, html{
 }
 html{
     color:white;
-    background: linear-gradient(0.125turn, green, black,red)
+    background: linear-gradient(0.125turn, green, black,blue)
+}
+.header{
+    font-family: cursive;
+
+}
+#dog{
+    border: 3px dashed rgb(236, 10, 21);
 }
